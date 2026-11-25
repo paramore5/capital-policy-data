@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://paramore5.github.io/capital-policy-data/sitemap.xml
